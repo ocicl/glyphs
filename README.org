@@ -1,0 +1,10 @@
+* glyphs
+
+Glyphs - Reducing Common Lisp verbosity
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ahungry/glyphs.git   |
+| commit  | 1ff5714  |
+| systems | glyphs |
+|---------+-------------------------------------------|
+
